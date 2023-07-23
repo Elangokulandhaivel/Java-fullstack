@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Users>
+	<user>
+		<name>Elango</name>
+		<age>22</age>
+		<gender>male</gender>
+	</user>
+	<user>
+		<name>Ezhil</name>
+		<age>23</age>
+		<gender>male</gender>
+	</user>
+	<user>
+		<name>Keerthi</name>
+		<age>22</age>
+		<gender>female</gender>
+	</user>
+	<user>
+		<name>kavi</name>
+		<age>45</age>
+		<gender>female</gender>
+	</user>
+</Users>

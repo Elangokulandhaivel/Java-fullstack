@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author elang
+ *
+ */
+module javafullstack {
+}
